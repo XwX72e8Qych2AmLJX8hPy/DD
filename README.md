@@ -1,5 +1,7 @@
 # DD
-<h1>Hi, DD <br/><a href="https://github.com/XwX72e8Qych2AmLJX8hPy">Cyber Security Enthusiast </a>, <a href="www.linkedin.com/in/deshard-dennison-3b8382270/"> IT Professional</a>, <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=6ML0LQGC3MVEQD5Y">CompTIA Security+ </a>
+<h1>Hi, DD <br/><a href="https://github.com/XwX72e8Qych2AmLJX8hPy">Cyber Security Enthusiast </a>, 
+ <a href="www.linkedin.com/in/deshard-dennison-3b8382270/"> Linkedin </a>, 
+ <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=6ML0LQGC3MVEQD5Y">CompTIA Security+ </a>
 <h2>👨‍💻 Digital Forensics Projects:</h2>
 
 - <b>1</b>
