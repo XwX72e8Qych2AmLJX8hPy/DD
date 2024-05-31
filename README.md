@@ -3,7 +3,7 @@
  <a href="www.linkedin.com/in/deshard-dennison-3b8382270/"> Linkedin </a>, 
  <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=6ML0LQGC3MVEQD5Y">CompTIA Security+ </a>
  
-<h2><a href="Digital Forensics Projects">Digital Forensics Projects </a></h2>
+<h2><a href="[Digital Forensics Projects](https://github.com/XwX72e8Qych2AmLJX8hPy/Digital-Forensics)">Digital Forensics Projects </a></h2>
 <b> I completed the Introduction to Digital Forensics certification by Security Blue Team. Used digital forensic techniques to locate hidden data on a workstation. Used steghide to extract embedded PII within image and music files. Discovered files with hidden extensions and used fcrackzip to brute force a zip folder and also used a dictionary attack supplied with the rockyou.txt wordlist in Kali Linux</b>
 
 <h2><a href="Threat Hunting Projects"> Threat hunting Projects</a></h2>
