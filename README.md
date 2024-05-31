@@ -1,5 +1,5 @@
 # DD
-<h1>Hello, I am a <br/><a href="https://github.com/XwX72e8Qych2AmLJX8hPy">Cyber Security Enthusiast </a>, </h1>
+<h1>Hello, I am a Cyber Security Enthusiast </h1>
  <a href="www.linkedin.com/in/deshard-dennison-3b8382270/"> Linkedin </a>, 
  <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=6ML0LQGC3MVEQD5Y">CompTIA Security+ </a>
 <h2>👨‍💻 Digital Forensics Projects:</h2>
