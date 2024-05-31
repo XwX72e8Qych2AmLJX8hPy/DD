@@ -14,7 +14,8 @@
 
 <h3>Goals</h3>
 <b> 
- <p>- 🔭 I’m currently working on completing all six of free training courses by Security Blue (2/6 so far)</p>
+ <p>- 🔭 I’m currently working on completing all six of free training courses by Security Blue (2/6 completed so far)</p>
+ <p>- 🔭 Once all six course are completed, I will prepare and take the <a href= "https://www.securityblue.team/why-btl1/"> Blue Team Level 1 Certification</a></p>
 <p>- 🌱 My focus right now is to continue showing hands-on skills and adding these projects to my github. I also want to occasionally re-study material from the CompTIA Pentest+ and CySA+ so I can pass the exams when I decide to take them. I'm also interested in hands-on coures which will reinforce material from these exams and add experience to my porfolio. The <u>CompTIA CySA+ Preparation Path</u> from "Let's Defend" look interesting.</p>
 <p>- 🌱 I also want to do some training from Hack the Box and revisit the penetration testing labs I did years ago at home. </p>
 <p>- 📫 How to reach me: ...
