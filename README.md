@@ -12,7 +12,7 @@
 <h2> Penetration Testing using home lab</h2>
 I plan to redo these labs that I have done years ago and then screenshot them as proof on my github page.
 
-<h4>
+<b>
 - 🔭 I’m currently working on completing all six of free training courses by Security Blue (2/6 so far)
 - 🌱 My focus right now is to continue showing hands-on skills and adding these projects to my github. I also want to occasionally re-study material from the CompTIA Pentest+ and CySA+ so I can pass the exams when I decide to take them. I'm also interested in hands-on coures which will reinforce material from these exams and add experience to my porfolio. The <u>CompTIA CySA+ Preparation Path</u> from "Let's Defend" look interesting.
 - 🌱 I also want to do some training from Hack the Box and revisit the penetration testing labs I did years ago at home. 
@@ -20,4 +20,4 @@ I plan to redo these labs that I have done years ago and then screenshot them as
   <a href="www.linkedin.com/in/deshard-dennison-3b8382270/"> Linkedin </a>, 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been playing the piano since a very young age. I taught myself to play and read sheet music. The only lessons I signed up for happened during my Master's program in college. I took piano practice for two semesters where I was about to improve my playing. Prior to taking these brief lessons, I was already able to play the piano very well. I prefer to play classical, video game, and anime music on the piano. 
---></h4>
+--></b>
