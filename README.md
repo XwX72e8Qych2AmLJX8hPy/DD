@@ -6,7 +6,7 @@
 <h2><a href="https://github.com/XwX72e8Qych2AmLJX8hPy/Digital-Forensics">Digital Forensics Projects </a></h2>
 <b> I completed the Introduction to Digital Forensics certification by Security Blue Team. Used digital forensic techniques to locate hidden data on a workstation. Used steghide to extract embedded PII within image and music files. Discovered files with hidden extensions and used fcrackzip to brute force a zip folder and also used a dictionary attack supplied with the rockyou.txt wordlist in Kali Linux</b>
 
-<h2><a href="Threat Hunting Projects"> Threat hunting Projects</a></h2>
+<h2><a href="https://github.com/XwX72e8Qych2AmLJX8hPy/ThreatHunting"> Threat hunting Projects</a></h2>
 <b>I completed the Introduction to Threat Hunting certification by Security Blue Team. Performed indicators of compromise (IOC) analysis using Mandiant IOC Collector. After creating a set of IOC files from sample downloads I documented the file name, file size, file path, and file hashes for md5, sha1sum. I later used Mandiant Redline to create a custom IOC script and search those IOCs within real malware on a Windows 10 machine hosted in VMware</b>
 
 <h2> Penetration Testing using home lab</h2>
