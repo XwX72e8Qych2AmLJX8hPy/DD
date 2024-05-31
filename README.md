@@ -4,11 +4,8 @@
  <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=6ML0LQGC3MVEQD5Y">CompTIA Security+ </a>
 <h2>👨‍💻 Digital Forensics Projects:</h2>
 
-- <b>1</b>
+<b>I completed the Introduction to Digital Forensics certification by Security Blue Team. Used digital forensic techniques to locate hidden data on a workstation. Used steghide to extract embedded PII within image and music files. Discovered files with hidden extensions and used fcrackzip to brute force a zip folder and also used a dictionary attack supplied with the rockyou.txt wordlist in Kali Linux</b>
 
-- <b>2</b>
- 
-- <b>3</b>
 <h2>Introduction to Threat hunting Projects</h2>
 <b>I completed the Introduction to Threat Hunting certification by Security Blue Team. Performed indicators of compromise (IOC) analysis using Mandiant IOC Collector. After creating a set of IOC files from sample downloads I documented the file name, file size, file path, and file hashes for md5, sha1sum. I later used Mandiant Redline to create a custom IOC script and search those IOCs within real malware on a Windows 10 machine hosted in VMware</b>
 
