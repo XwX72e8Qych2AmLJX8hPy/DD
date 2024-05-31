@@ -9,7 +9,7 @@
 - <b>2</b>
  
 - <b>3</b>
-<h2>Introduction to Threat hunting</h2>
+<h2>Introduction to Threat hunting Projects</h2>
 
 
 Here are some ideas to get you started:
