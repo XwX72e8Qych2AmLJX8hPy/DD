@@ -1,4 +1,4 @@
-# Deshard D
+# DD
 <h1>Hello, I'm a Cyber Security Enthusiast </h1>
  <a href="www.linkedin.com/in/deshard-dennison-3b8382270/"> Linkedin </a>, 
  <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=6ML0LQGC3MVEQD5Y">CompTIA Security+ </a>
