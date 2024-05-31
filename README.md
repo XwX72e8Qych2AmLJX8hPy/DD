@@ -7,7 +7,7 @@
 - <b>2</b>
  
 - <b>3</b>
-  - 
+<h3>Introduction to Threat hunting</h3>
 
 
 Here are some ideas to get you started:
